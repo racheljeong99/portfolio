@@ -1,15 +1,21 @@
-
 body {
-  background-color: #CEFED7;
+  background-color: #463E3F;
 }
 
-h2{
-  color: #9F2450 ;
+
+
+h3, h2{
+  color: #E5E4E2 ;
 }
 
-h1{
+
+
+h1,p {
+
+  color:#E5E4E2 
+}
+h1 {
   text-align: center;
-  background-color:
 }
 
 
