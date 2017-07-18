@@ -1,4 +1,4 @@
-body {
+,body {
 
   background-color: #463E3F;
 
@@ -10,7 +10,7 @@ h3, h2, h1{
 
 }
 
-p {
+p,ul {
   color:#B6B6B4 
 
 }
