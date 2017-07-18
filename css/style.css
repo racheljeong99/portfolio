@@ -8,4 +8,13 @@ h2{
 
 h1{
   text-align: center;
+  background-color:
+}
+
+
+img {
+  display: block;
+  margin: auto;
+  height:400px;
+  width: 400px;
 }
