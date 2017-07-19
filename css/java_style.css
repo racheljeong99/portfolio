@@ -13,8 +13,6 @@ h3{
 
 h1 {
 
-
-
   color:#E5E4E2 
 
 }
@@ -25,17 +23,13 @@ h1,h3 {
 
 }
 
-
-
-
-
 img {
 
   display: block;
 
   margin: auto;
 
-  height:550px;
+  height:500px;
 
   width: 400px;
 
