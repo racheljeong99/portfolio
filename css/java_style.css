@@ -19,7 +19,7 @@ h1 {
 
 }
 
-h1 {
+h1,h3 {
 
   text-align: center;
 
@@ -37,6 +37,6 @@ img {
 
   height:1000px;
 
-  width: 500px;
+  width: 660px;
 
 }
