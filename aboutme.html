@@ -5,76 +5,29 @@
 <title>Rachel Jeong's Portfolio</title>
 <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
-  
    
 <body>
-  <h1>Rachel Jeong's Girls Who Code Portfolio</h1>
+  <h1>Rachel Jeong's Portfolio</h1>
   <a href = "home.html" > HOME </a> &nbsp;
   <a href = "aboutmelink.html"> ABOUT ME </a> &nbsp;
   <a href = "GWCprojects.html"> GWC PROJECTS </a> &nbsp;
   <a href = "highschoolvisualarts.html"> VISUAL ARTS </a> &nbsp;
     
   <p> Welcome to my personal portfolio! Here, you will get an overview of the projects that I have completed up until now. If you have any questions, feel free to contact me. </p>
-  <h2> My photo filter image... </h2>
-
-<FORM>
-
-<INPUT TYPE="button" VALUE="Click Here to Email Me"
-onClick="parent.location='gmail.com?subject=This goes to the subject'">
-</FORM>
-	
-
-
-
-<script type="text/javascript">
-var msg = 'Rachel Jeong's Girls Who Code Portfolio '
-var colorTimer = null;
-
-function toHex(n){
-var hexChars = '0123456789ABCDEF';
-if (n == 0) return n;
-var j, k;
-var temp = '';
-while (n != 0){
-j = n % 16;
-n = (n - j)/16;
-temp = hexChars.charAt(j) + temp;
-}
-return temp;
-}
-function colorize(){
-if (!document.getElementById) return;
-for (i=0; i<msg.length; i++){
-k = Math.round(Math.random() * 16777215);
-k = toHex(k);
-while (k.length < 6){
-k = k + '0';
-}
-document.getElementById('colorizer' + i).style.color = '#' + k;
-}
-colorTimer = window.setTimeout('colorize()', 230);
-}
-</script>
-
-<BODY onload='colorize();'>
-
-<div id="text" style="font-size:35px ; font-family: 'Times New Roman', Courier, monospace; letter-spacing:normal; font-weight:bold; font-style:normal; text-align:center; padding-top:15px;">
-<script>
-for (var i=0; i<msg.length; i++){
-document.write("<span id ='colorizer" + i + "'>" + msg.charAt(i) + "</span>");
-}
-</script></div>
+  
 
 
 
 
 
-</body><a target="_blank" href="http://free-web-tools.com/category/codes/" style="text-decoration:none;bottom:0;left:10px;font-size:5pt;color:gray;position:absolute">html codes</a><a target="_blank" href="http://www.javascriptbestcodes.com" style="font-size: 8pt; text-decoration: none">Javascript Codes</a>
+
+
+
 
 
 
 	
-<img src="caroline.jpg"> 
+<img src="me.jpg"> 
 </body>
 
 </html>
