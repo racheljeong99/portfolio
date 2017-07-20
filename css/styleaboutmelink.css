@@ -1,5 +1,5 @@
 body {
-  background-color: #3D4544;
+  background-color: #13133a;
 
 
 h3,h1,p{
@@ -10,8 +10,7 @@ h3,h1,p{
 
 
 img {
-  display: block;
-  margin: auto;
+  
   height:100px;
   width: 100px;
   }
