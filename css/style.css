@@ -7,12 +7,12 @@ h3, h2{
   text-align: center;
 }
 
-h1,p {
+h1,p, h4 {
 
   color:#E5E4E2;
   text-align: center;
 }
-h1, li{
+h1, li, h4{
   text-align: center;
 }
 
